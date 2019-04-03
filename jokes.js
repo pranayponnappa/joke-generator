@@ -1,0 +1,21 @@
+exports.jokes = [
+    ['What did the spider do on the computer?','Made a website!'],
+    ['What did the computer do at lunchtime?', 'Had a byte!'],
+    ['What does a baby computer call his father?','Data!'],
+    ['Why did the computer keep sneezing?','It had a virus!'],
+    ['What is a computer virus?','A terminal illness!'],
+    ['Why was the computer cold?','It left it\'s Windows open!'],
+    ['Why was there a bug in the computer?','Because it was looking for a byte to eat?'],
+    ['Why did the computer squeak?','Because someone stepped on it\'s mouse!'],
+    ['What do you get when you cross a computer and a life guard?','A screensaver!'],
+    ['Where do all the cool mice live?','In their mousepads'],
+    ['What do you get when you cross a computer with an elephant?','Lots of memory!'],
+    ['What did the traffic light say to the car?',' Don\'t look! I\'m about to change.'],
+    ['What did one hat say to the other?','You stay here. I\'ll go on ahead.'],
+    ['Why wouldn\'t the shrimp share his treasure?','Because he was a little shellfish.'],
+    ['Where do you find a cow with no legs?','Right where you left it.'],
+    ['How do crazy people go through the forest?','They take the physco path.'],
+    ['What\'s orange and sounds like a parrot?','A carrot.'],
+    ['Why couldn\'t the bicycle stand up?','Because it was two tired!'],
+    ['Why did the old man fall in the well?','Because he couldn\'t see that well.']
+];
