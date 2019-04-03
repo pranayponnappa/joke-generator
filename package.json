@@ -1,0 +1,14 @@
+{
+  "name": "jokegenerator",
+  "version": "1.0.0",
+  "description": "randomly generate jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pranay kariappa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
